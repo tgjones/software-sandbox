@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumbers", "HappyNumbers.csproj", "{F6294305-29D3-46B8-8A5B-222F8A84FB80}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F6294305-29D3-46B8-8A5B-222F8A84FB80}.Debug.ActiveCfg = Debug|.NET
+		{F6294305-29D3-46B8-8A5B-222F8A84FB80}.Debug.Build.0 = Debug|.NET
+		{F6294305-29D3-46B8-8A5B-222F8A84FB80}.Release.ActiveCfg = Release|.NET
+		{F6294305-29D3-46B8-8A5B-222F8A84FB80}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
